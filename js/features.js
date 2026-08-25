@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://img.heliar.top/file/1772885159972_silence.m4a';
+    var SRC = 'https://assets.vidmore.cloud/down/2afc45d3a133983294032a4c32b7990c/1787628464502/1787628462840_1787628464502_converted.mp4';
     var _audio = null;
     var _unlockBound = false;
 
