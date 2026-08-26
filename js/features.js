@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://assets.vidmore.cloud/down/2afc45d3a133983294032a4c32b7990c/1787628464502/1787628462840_1787628464502_converted.mp4';
+    var SRC = 'https://files.catbox.moe/xmzewt.m4a';
     var _audio = null;
     var _unlockBound = false;
 
