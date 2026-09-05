@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://files.catbox.moe/xmzewt.m4a';
+    var SRC = 'https://github.com/kaede-Alt/Sky.github.io/blob/main/%E7%A9%BA%E7%99%BD.m4a';
     var _audio = null;
     var _unlockBound = false;
 
